@@ -4,32 +4,32 @@ import { Linkedin, Mail } from 'lucide-react';
 export function MemberDirectory() {
   const managementBody = [
     {
-      name: "Dr. Rajesh Kumar",
+      name: "Vivek Mishra",
       designation: "Founder & President",
       image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
       linkedin: "#",
-      email: "rajesh@arunodaya.org",
+      email: "vivek@arunodaya.org",
     },
     {
-      name: "Priya Sharma",
+      name: "Ashish Rathore",
       designation: "Vice President",
       image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
       linkedin: "#",
-      email: "priya@arunodaya.org",
+      email: "ashish@arunodaya.org",
     },
     {
-      name: "Amit Patel",
+      name: "Prashant Chaubey",
       designation: "General Secretary",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
       linkedin: "#",
-      email: "amit@arunodaya.org",
+      email: "prashant@arunodaya.org",
     },
     {
-      name: "Sneha Desai",
+      name: "Ankur Singh",
       designation: "Treasurer",
       image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop",
       linkedin: "#",
-      email: "sneha@arunodaya.org",
+      email: "ankur@arunodaya.org",
     },
   ];
 
