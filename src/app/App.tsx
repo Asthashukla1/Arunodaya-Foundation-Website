@@ -30,7 +30,7 @@ export default function App() {
       <VolunteerForm />
       <ContactSection />
       <Footer />
-      <QuickAccessSidebar />
+      {/*<QuickAccessSidebar />*/}
       <FloatingContactButton />
     </div>
   );
