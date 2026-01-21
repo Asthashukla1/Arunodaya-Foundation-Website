@@ -12,6 +12,8 @@ import { ContactSection } from '@/app/components/ContactSection';
 import { Footer } from '@/app/components/Footer';
 import { QuickAccessSidebar } from '@/app/components/QuickAccessSidebar';
 import { FloatingContactButton } from '@/app/components/FloatingContactButton';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 export default function App() {
   return (
